@@ -43,4 +43,6 @@ for (let i; i < numbers.length; i++) {
     if (numbers[i] > 0) {
         numberAboveZero = numbers[i]
     } else 
-}
+} 
+
+
